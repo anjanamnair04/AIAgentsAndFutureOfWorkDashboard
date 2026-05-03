@@ -1,5 +1,5 @@
-## AIAgentsAndFutureOfWorkDashboard
-#### Link To Dashboard-
+## AI Agents And Future Of Work Dashboard
+#### Link To Dashboard- https://app.powerbi.com/view?r=eyJrIjoiMjYzNjhkNDItZjMwNy00NmM2LTkzN2QtMWUxOTI4MzFjNzQ0IiwidCI6ImFjODBkNDhiLWYzMTQtNDVlYi05NmM0LTIyYzk1Njc5ZTExOSJ9
 #### About Dataset
 A comprehensive dataset covering the global impact of AI agents on jobs, skills, salaries, and industries across 12 countries and 12 industry sectors. The dataset spans from January 2022 to March 2026 and represents the full landscape of AI adoption — from automation risk and workforce displacement to the emergence of new AI-driven roles, productivity gains, and evolving skill demands across all experience levels.
 #### Goal
